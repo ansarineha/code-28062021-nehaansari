@@ -1,0 +1,7 @@
+,Gender,HeightCm,WeightKg,BMI_value,BMI_Category,Health risk
+0,Male,171,96,0.000185546875,Underweight,Malnutrition risk
+1,Male,161,85,0.00022283737024221455,Underweight,Malnutrition risk
+2,Male,180,77,0.0003035925113847192,Underweight,Malnutrition risk
+3,Female,166,62,0.0004318418314255983,Underweight,Malnutrition risk
+4,Female,150,70,0.0003061224489795918,Underweight,Malnutrition risk
+5,Female,167,82,0.0002483640690065437,Underweight,Malnutrition risk
